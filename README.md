@@ -1,6 +1,6 @@
 # Project Title
 
-![Project Overview](path/to/your/image.png)
+![Project Overview](/Users/anleike/Desktop/202408论文/model3.png)
 
 ## Introduction
 
@@ -26,3 +26,24 @@ You can install the required dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+##Datasets
+- dataset/
+    - train/
+    - test/
+    - validation/
+
+##Usage
+To train the model with the default settings, run the following command:
+```bash
+python train.py --config config.json
+```
+
+##Citation
+@inproceedings{your_citation_key,
+  title={Your Project Title},
+  author={Your Name and Collaborator},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2024},
+  pages={1234-1239},
+}
