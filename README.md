@@ -1,6 +1,6 @@
-# Project Title
+# A Domain Adversarial Learning Framework for Major Depression Disorder Diagnosis
 
-![Project Overview](/Users/anleike/Desktop/202408论文/model3.png)
+![Project Overview](model.png)
 
 ## Introduction
 
