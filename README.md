@@ -4,14 +4,15 @@
 
 ## Introduction
 
-This project addresses a set of key challenges in [your specific research area, e.g., natural language processing, machine learning, computer vision]. The main goal is to [brief description of the objective].
+* To the best of our knowledge, it is the first attempt to integrate transformer-based and Domain Adversarial Learning in a unified framework for MDD diagnosis. 
+* item We apply Domain Adversarial Learning to extract subject-invariant features and further improve the generalization of the proposed model.
+* item  The proposed MDD-DAL achieves the SOTA performance on MDD diagnosis datasets in subject-independent cross-validation.
 
 ### Key Challenges:
-1. **Challenge 1**: [Brief description of the first challenge the project tackles].
-2. **Challenge 2**: [Brief description of the second challenge].
-3. **Challenge 3**: [Brief description of the third challenge].
+1. **Challenge 1**: [The inadequate consideration of spatial-temporal characteristics in EEG signals].
+2. **Challenge 2**: [The cross-subject variability problem, also known as inter-subject variability.This refers to the fact that EEG signals can vary significantly across different individuals due to differences in brain morphology, neural connectivity, and other factors.].
 
-By overcoming these challenges, the project contributes to advancements in [related field or technology]. 
+This paper presents a new method for MDD diagnosis that effectively tackles the previously mentioned challenges. The proposed method relies on two principal modules: Spatial-Temporal Feature Learning module and the Domain Adversarial Learning module. The former uses spatial and temporal transformer blocks to capture spatial and temporal information from EEG signals, allowing the model to extract critical high-level features that aid in the diagnosis of MDD. The latter addresses the issue of cross-subject variability in EEG analysis by utilizing domain-labeled data and exhibiting increased generalization abilities toward new subjects while also improving robustness. .
 
 ## Requirements
 
