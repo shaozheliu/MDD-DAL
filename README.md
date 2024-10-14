@@ -5,8 +5,8 @@
 ## Introduction
 
 * To the best of our knowledge, it is the first attempt to integrate transformer-based and Domain Adversarial Learning in a unified framework for MDD diagnosis. 
-* item We apply Domain Adversarial Learning to extract subject-invariant features and further improve the generalization of the proposed model.
-* item  The proposed MDD-DAL achieves the SOTA performance on MDD diagnosis datasets in subject-independent cross-validation.
+* We apply Domain Adversarial Learning to extract subject-invariant features and further improve the generalization of the proposed model.
+* The proposed MDD-DAL achieves the SOTA performance on MDD diagnosis datasets in subject-independent cross-validation.
 
 ### Key Challenges:
 1. **Challenge 1**: The inadequate consideration of spatial-temporal characteristics in EEG signals.
