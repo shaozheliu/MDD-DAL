@@ -1,6 +1,10 @@
 # A Domain Adversarial Learning Framework for Major Depression Disorder Diagnosis
 
-![Project Overview](model.png)
+
+<div align="center">
+    <img src="model.png" alt="Project Overview" width="50%" />
+</div>
+
 
 ## Introduction
 
